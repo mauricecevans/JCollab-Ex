@@ -3,6 +3,8 @@ package com.zetcode;
 
 Maurice
 
+Hello there.  I'm adding code.
+
 import java.awt.Image;
 import java.awt.event.KeyEvent;
 import javax.swing.ImageIcon;
